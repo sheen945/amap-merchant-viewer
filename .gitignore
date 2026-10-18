@@ -1,0 +1,19 @@
+# ===== 敏感信息与本地数据（绝不提交）=====
+key.txt
+data_all.json
+embed/
+数据文件/
+*.json
+
+# ===== 打包产物 =====
+dist/
+build/
+*.spec
+_viewer_app_build.py
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
